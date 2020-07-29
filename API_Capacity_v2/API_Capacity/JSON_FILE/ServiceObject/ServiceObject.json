@@ -1,8 +1,0 @@
-{
-    "service_objects": [
-        {
-            "name": "servobj4",
-            "ospf": "hello"
-        }
-    ]
-}
