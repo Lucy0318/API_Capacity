@@ -1,0 +1,6 @@
+*** Variables ***
+${type}           NSV1600
+${sn}             1
+${en}             128
+${step}           1
+${casename}       AddressObject
